@@ -6,7 +6,7 @@ on:
       - main  # Change to your default branch if necessary
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
