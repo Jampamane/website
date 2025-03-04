@@ -1,3 +1,59 @@
-site_name: My Docs
+site_name: Jampamane Homepage
 theme:
+  logo: assets/profile_pic.jpg
+  favicon: assets/profile_pic.jpg
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+  palette:
+    - primary: black
+      accent: orange
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+    - primary: black
+      accent: orange
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.tilde
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+
+
+plugins:
+  - blog:
+      enabled: true
+      categories: true
+
+nav:
+  - Home: index.md
+  - Resume: resume/index.md
+  - Projects:
+    - projects/index.md
+  - Youtube:
+    - youtube/index.md
+  - Blog:
+    - blog/index.md
