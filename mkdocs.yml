@@ -52,6 +52,13 @@ plugins:
       pagination_per_page: 5
       authors: true
 
+extra_css:
+  - styles/homepage.css
+
+extra_javascript:
+  - javascripts/scroll.js
+  - javascripts/smooth_homepage_image.js
+
 nav:
   - Home: index.md
   - Resume: resume/index.md
