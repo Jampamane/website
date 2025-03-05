@@ -1,4 +1,4 @@
-site_name: Jampamane Homepage
+site_name: Jampamane
 theme:
   logo: assets/profile_pic.jpg
   favicon: assets/profile_pic.jpg
@@ -47,6 +47,10 @@ plugins:
   - blog:
       enabled: true
       categories: true
+      post_excerpt: required
+      pagination: true
+      pagination_per_page: 5
+      authors: true
 
 nav:
   - Home: index.md
