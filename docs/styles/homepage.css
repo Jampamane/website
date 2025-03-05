@@ -9,7 +9,7 @@
     justify-content: center;
     text-align: left;
     color: white;
-    background: url("../assets/profile_pic.jpg") no-repeat center;
+    background: url("assets/profile_pic.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
