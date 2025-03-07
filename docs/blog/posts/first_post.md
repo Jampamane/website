@@ -3,9 +3,6 @@ title: The First Post
 date: 2025-03-05
 authors: [jampamane]
 slug: the-first-post
-description: >
-  The very first post of my new blog, in which I reflect on why
-  I'm starting it in the first place, and why humans create art.
 categories:
     - Personal
 ---
