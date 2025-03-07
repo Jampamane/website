@@ -1,6 +1,6 @@
 .homepage-hero {
     position: relative;
-    height: 90vh;
+    height: 100vh;
     width: 100vw;
     padding-left: 17.5%;
     display: flex;
@@ -51,6 +51,7 @@
     margin-bottom: 0;
 }
 
+
 .homepage-hero h1, .homepage-hero h4 {
     color: #f8f9fa;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4)
@@ -59,6 +60,18 @@
 .homepage-hero h4 {
     font-size: 1.5rem;
     font-weight: normal;
+}
+
+@media (max-width: 768px) {
+    .homepage-hero h1 {
+        font-size: 2.4rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .homepage-hero h4 {
+        font-size: 1.2rem;
+    }
 }
 
 .homepage-buttons {
@@ -72,11 +85,32 @@
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4)
 }
 
+@media (max-width: 768px) {
+    .homepage-buttons .md-button {
+        font-size: 0.9rem;
+        padding: 10px 18px;
+    }
+}
+
 .homepage-features {
     margin-top: 50px;
     text-align: justify;
     padding-left: 17.5%;
     padding-right: 30%;
+    
+}
+
+@media (max-width: 1220px) {
+    .homepage-features, .homepage-hero {
+        padding-left: 5vw;
+    }
+}
+
+@media (max-width: 768px) {
+    .homepage-features, .homepage-hero {
+        padding-right: 0;
+        padding-left: 5vw;
+    }
 }
 
 .homepage-features h2 {
@@ -96,4 +130,22 @@
 .homepage-features2 h2 {
     text-align: right;
     font-size: 2rem;
+}
+
+@media (max-width: 1220px) {
+    .homepage-features2 {
+        padding-left: 30%;
+    }
+}
+
+@media (max-width: 768px) {
+    .homepage-features2 {
+        padding-left: 5vw;
+    }
+}
+
+@media (max-width: 768px) {
+    .homepage-features2 h2 {
+        text-align: left;
+    }
 }

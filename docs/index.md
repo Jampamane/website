@@ -13,9 +13,21 @@ hide:
 }
 
 article.md-content__inner.md-typeset {
-    width: 100vw;
-    padding-right: 25%;
+    width: 84vw;
 }
+
+@media (max-width: 1220px) {
+    article.md-content__inner.md-typeset {
+        width: 92.5vw;
+    }
+}
+
+/* @media (max-width: 768px) {
+    article.md-content__inner.md-typeset {
+        width: 100vw;
+    }
+} */
+
 
 html {
     scroll-behavior: smooth;
