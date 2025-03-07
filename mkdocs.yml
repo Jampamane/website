@@ -61,10 +61,10 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Resume: resume/index.md
-  - Projects:
-    - projects/index.md
-  - Youtube:
-    - youtube/index.md
+  # - Resume: resume/index.md
+  # - Projects:
+  #   - projects/index.md
+  # - Youtube:
+  #   - youtube/index.md
   - Blog:
     - blog/index.md
