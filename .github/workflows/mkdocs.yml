@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -32,8 +31,10 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build
 
+      - name: Add CNAME file
+        run: echo "jampamane.org" > site/CNAME
+
       - name: Deploy to GitHub Pages
-        run: echo "jampamane.org" > CNAME
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
