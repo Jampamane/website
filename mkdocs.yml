@@ -59,6 +59,7 @@ extra_css:
 extra_javascript:
   - javascripts/scroll.js
   - javascripts/smooth_homepage_image.js
+  - javascripts/giscus_theme.js
 
 nav:
   - Home: index.md
