@@ -26,7 +26,8 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install mkdocs-material  # Change if using a different theme
+          pip install mkdocs-material
+          pip install mkdocs-rss-plugin
 
       - name: Build MkDocs site
         run: mkdocs build
