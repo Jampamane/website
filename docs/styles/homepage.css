@@ -76,6 +76,7 @@
 
 .homepage-buttons {
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 .homepage-buttons .md-button {
@@ -145,7 +146,15 @@
 }
 
 @media (max-width: 768px) {
-    .homepage-features2 h2 {
+    .homepage-features2 h2, .homepage-features h2 {
         text-align: left;
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .homepage-features2 h3, .homepage-features h3 {
+        text-align: left;
+        font-size: 0.9rem;
     }
 }
