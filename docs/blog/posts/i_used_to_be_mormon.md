@@ -35,7 +35,7 @@ After I assured my mom that everything was fine, she left. Then I placed all my 
 
 What I’m describing isn’t unique; thousands of people decide to go on missions every year. You're treated with honor and respect, and you return home a local hero. God has commanded to go and teach the world the truth. We sing about this moment in church when we're children. *I hope they call me on a mission, when I have grown a foot or two*. People do this kind of thing because they genuinely believe in what they’re teaching.
 
-![](images/mission_pic.jpg){ width="180" align="left" }
+![Me on my mission, holding a Book of Mormon](images/mission_pic.jpg){ width="180" align="left" }
 
 I went on a mission because I believed in the Mormon church. I believed, perhaps naively, that the Mormon church was the only true church on the planet. I taught people about Joseph Smith. I baptized people. I knocked on lots and lots of doors. I listened to cheesy Christian bands. I handed out the Book of Mormon. I called my family twice a year. I prayed every night. I went to bed at 10:30. I got 8 hours of sleep. I played a lot of basketball. I wrote in my journal.
 
@@ -57,7 +57,7 @@ I’ll never forget the time I found out the Mormon church lied to me.
 
 You’ll hear this argument a lot. I have heard this argument more times than I can count. I *told* this to people while on my mission.
 
-I would like to now turn your attention away from the Book of Mormon briefly, and towards a different book, in a different time. One that was published just a few years prior to the release of the Book of Mormon. This book is titled *“A view of the Hebrews.”* It’s a historical textbook written in an old style of English, similar to that of the Book of Mormon. So similar, in fact, that doing a side by side comparison reveals a singularly laughable fact. Large swaths of the Book of Mormon were very clearly plagiarized from this book. Not only that, but this was a book that is widely believed to have been owned by Joseph Smith himself.
+I would like to now turn your attention away from the Book of Mormon briefly, and towards a different book, in a different time. One that was published a decade prior to the release of the Book of Mormon. This book is titled *[The Late War](https://archive.org/details/latewarbetweenun00inhunt/page/n5/mode/2up?view=theater)*. It’s a historical textbook written in an old style of English, similar to that of the Book of Mormon. So similar, in fact, that doing a [side by side comparison](http://wordtree.org/thelatewar//) reveals a singularly laughable fact. Large swaths of the Book of Mormon were very clearly plagiarized from this book. Not only that, but this was a book that is widely believed to have been owned by Joseph Smith himself.
 
 There I was, a struggling college student in my studio apartment, doing the side by side comparison of the two books whilst my newborn son napped in the crib behind me. My jaw hung open in disbelief as I read. ***“The single most important piece of evidence for the restoration of the gospel”*** was falling apart right in front of me. My brain broke. The glass chair I was sitting on shattered and I was suddenly falling 168 stories to my death. The world started to spin.
 
