@@ -4,8 +4,7 @@ date: 2025-03-07
 authors: [jampamane]
 slug: i-used-to-be-mormon
 categories:
-    - Personal
-    - Religion
+    - General
 ---
 
 # I Used to be Mormon

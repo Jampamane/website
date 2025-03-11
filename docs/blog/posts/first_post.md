@@ -4,7 +4,7 @@ date: 2025-03-05
 authors: [jampamane]
 slug: the-first-post
 categories:
-    - Personal
+    - General
 ---
 
 # The First Post
