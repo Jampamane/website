@@ -7,9 +7,20 @@ hide:
 .md-main .md-grid, .md-main .md-content__inner {
     margin: 0px;
     margin-top: -5px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     padding: 0;
     width: 100%;
+}
+
+.md-source-file {
+    padding-left: 18%;
+    margin-top: 50px;
+}
+
+@media (max-width: 1220px) {
+    .md-source-file {
+        padding-left: 5vw;
+    }
 }
 
 article.md-content__inner.md-typeset {

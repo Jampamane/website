@@ -53,6 +53,11 @@ markdown_extensions:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: Jampamane/website
+      branch: main
   - blog:
       enabled: true
       categories: true
