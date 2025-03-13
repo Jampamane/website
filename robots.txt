@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jampamane.org/sitemap.xml
