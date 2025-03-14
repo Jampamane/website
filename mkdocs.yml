@@ -9,8 +9,8 @@ theme:
     repo: fontawesome/brands/github
   custom_dir: overrides
   logo: assets/profile_pic.jpg
-  favicon: assets/profile_pic.jpg
   name: material
+  favicon: assets/favicon.ico
   features:
     - navigation.tabs
     - navigation.sections
@@ -88,6 +88,7 @@ nav:
   # - Resume: resume/index.md
   # - Projects:
   #   - projects/index.md
+  #   - projects/chess_bot.md
   # - Youtube:
   #   - youtube/index.md
   - Blog:
