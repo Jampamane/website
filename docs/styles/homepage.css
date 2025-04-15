@@ -93,13 +93,6 @@
     }
 }
 
-.homepage-features {
-    margin-top: 50px;
-    text-align: justify;
-    padding-left: 17.5%;
-    padding-right: 30%;
-    
-}
 
 @media (max-width: 1220px) {
     .homepage-features, .homepage-hero {
@@ -112,6 +105,14 @@
         padding-right: 0;
         padding-left: 5vw;
     }
+}
+
+.homepage-features {
+    margin-top: 50px;
+    text-align: justify;
+    padding-left: 17.5%;
+    padding-right: 30%;
+    
 }
 
 .homepage-features h2 {
