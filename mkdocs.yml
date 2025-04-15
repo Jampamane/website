@@ -39,6 +39,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       clickable_checkbox: true
       custom_checkbox: true
+  - pymdownx.blocks.caption
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
