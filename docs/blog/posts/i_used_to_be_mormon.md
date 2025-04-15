@@ -34,7 +34,8 @@ After I assured my mom that everything was fine, she left. Then I placed all my 
 
 What I’m describing isn’t unique; thousands of people decide to go on missions every year. You're treated with honor and respect, and you return home a local hero. God has commanded to go and teach the world the truth. We sing about this moment in church when we're children. *I hope they call me on a mission, when I have grown a foot or two*. People do this kind of thing because they genuinely believe in what they’re teaching.
 
-![Me on my mission, holding a Book of Mormon](images/mission_pic.jpg){ width="180" align="left" }
+![Me on my mission, holding a Book of Mormon](images/mission_pic.jpg){ width="24%" align="right" }
+
 
 I went on a mission because I believed in the Mormon church. I believed, perhaps naively, that the Mormon church was the only true church on the planet. I taught people about Joseph Smith. I baptized people. I knocked on lots and lots of doors. I listened to cheesy Christian bands. I handed out the Book of Mormon. I called my family twice a year. I prayed every night. I went to bed at 10:30. I got 8 hours of sleep. I played a lot of basketball. I wrote in my journal.
 
