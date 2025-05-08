@@ -7,8 +7,6 @@ categories:
     - General
 ---
 
-# Surgery
-
 My mom had to get hip surgery.
 
 Apparently she has genetically bad hips. Her and her 3 sisters are all dealing with this fact. One of them is currently trying alternative methods to try and fix it: things like stem cells, and hyperbaric chambers and whatnot.

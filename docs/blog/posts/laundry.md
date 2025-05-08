@@ -7,8 +7,6 @@ categories:
     - General
 ---
 
-# Laundry
-
 Sunday had arrived once again.
 
 I loaded up the car with 2 weeks worth of laundry and pulled out of the apartment complex. My wife, fighting an unknown sickness, would not be joining me. Without her voice to fill the silence my mind drifts into a hypothetical future. I think about a future where we have our own washer and dryer. I think about a future where I'm not in college and I don't need to rely on my parents. I think about a future where I don't need to drive 40 minutes to do laundry.
@@ -30,7 +28,7 @@ I know that sounds really bizarre, and it is, but failure to equip *the sacred g
 
 My dad probes me a bit.
 
-*”So do you just not like them, or do you not believe in them anymore?”*
+*So do you just not like them, or do you not believe in them anymore?*
 
 He says the second option in a sort of a joking manner, which makes it obvious to me that it’s not an actual option in his mind. I mean, how could his own son jeopardize his eternal family? That's just the kind of dumb thing his son wouldn't do. His own son obviously wouldn’t do that.
 
@@ -54,7 +52,7 @@ Before I have a chance to process this he’s asking me why. Why would I do this
 
 I begin to explain the research I did into church history, but before I could even finish a sentence he interrupts me.
 
-*”So you read anti-Mormon material?”*
+*So you read anti-Mormon material?*
 
 This is a predictable response, but it still catches me offguard. *Anti-Mormon material* is the first item in a faithful member's arsenal to dismiss any historical facts that directly contridict what the Mormon church teaches. It's an extremely effective [thought-stopping technique](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9). Maybe I just thought that my dad wouldn't stoop to that level. Maybe I thought he would try and actually understand my concerns instead of dismissing them all because I read *“anti-Mormon material.”* Maybe I was wrong.
 

@@ -7,8 +7,6 @@ categories:
     - General
 ---
 
-# I Used to be Mormon
-
 It wasn’t going to go away, no matter how much I tried not to think about it. The thought had taken permanent residence on a shelf in my brain titled: *Future Problems*. It was a future problem that was fast approaching, like a knife wielding horror cliche chasing me in the forest, who just now broke out into a sprint.
 
 I was having trouble describing what I was feeling. It was a kind of fear mixed with uncertainty? And then pan tossed with insecurity? Is this what anxiety felt like? Wasn’t I just in High School? Wasn’t graduation only a month ago? I had already said goodbye to my graduating class, and now I have to say goodbye to my friends and family?
@@ -16,7 +14,7 @@ I was having trouble describing what I was feeling. It was a kind of fear mixed 
 <!-- more -->
 I looked down at the floor where all of my belongings lie, then to the empty closet where they were just a moment ago. My bed sank as I sat on the edge of it, seemingly burdened by the extra weight of my thoughts. My room was suddenly a mess. Maybe if I sat and stared at my stuff for long enough, it would magically pack itself, or better yet, it’d go back into the closet where it's always been. This wishful thinking was interrupted by my mom, who has walked into my room to ask me a question.
 
-*“How’s the packing coming along?”*
+*How’s the packing coming along?*
 
 I open my mouth to speak but nothing comes out. Just one word would do the trick; good, or fine, or even bad would suffice. No need to make a scene.
 
@@ -24,7 +22,7 @@ Suddenly I’m crying.
 
 This catches me off guard, as I had never cried from fear and stress before. It’s also extremely uncharacteristic of me to cry in front of my mom like this. My mom knows this too. Clearly sensing something was off, she tried to comfort me.
 
-*“You know you don’t have to go if you don’t want to.”*
+*You know you don’t have to go if you don’t want to.*
 
 I looked at her for a minute wondering if she actually believed what she just said. All this work to get to this point just to back out at the last second? All of the worthiness tests and the bishopric meetings and the priesthood blessings and the tithing money paid just so I could go to college for a year? No, it’s too late to turn back.
 
@@ -35,7 +33,6 @@ After I assured my mom that everything was fine, she left. Then I placed all my 
 What I’m describing isn’t unique; thousands of people decide to go on missions every year. You're treated with honor and respect, and you return home a local hero. God has commanded to go and teach the world the truth. We sing about this moment in church when we're children. *I hope they call me on a mission, when I have grown a foot or two*. People do this kind of thing because they genuinely believe in what they’re teaching.
 
 ![Me on my mission, holding a Book of Mormon](images/mission_pic.jpg){ width="24%" align="right" }
-
 
 I went on a mission because I believed in the Mormon church. I believed, perhaps naively, that the Mormon church was the only true church on the planet. I taught people about Joseph Smith. I baptized people. I knocked on lots and lots of doors. I listened to cheesy Christian bands. I handed out the Book of Mormon. I called my family twice a year. I prayed every night. I went to bed at 10:30. I got 8 hours of sleep. I played a lot of basketball. I wrote in my journal.
 
@@ -53,7 +50,7 @@ They’ll tell you about all of these "reasons" that people leave to try and dis
 
 I’ll never forget the time I found out the Mormon church lied to me.
 
-*“There’s no way an uneducated farm boy could write such a complicated and convincing tale as the Book of Mormon in only 60 days! It had to have come from God!”*
+*There’s no way an uneducated farm boy could write such a complicated and convincing tale as the Book of Mormon in only 60 days! It had to have come from God!*
 
 You’ll hear this argument a lot. I have heard this argument more times than I can count. I *told* this to people while on my mission.
 
