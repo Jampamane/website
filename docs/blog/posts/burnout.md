@@ -11,6 +11,7 @@ Recently I've been feeling the tiring effects of burnout.
 
 Whenever something like this happens I like to drown out my feelings with noise, usually in the form of YouTube videos. I have a sneaking suspicion that that is more common of a response than any one of us would care to admit. It's uncomfortable to marinate in negative feelings and really get to the root of why they're there in the first place. The much easier path is to put the entertainment box in front of our face so that we can forget, even for a moment, that they exist.
 
+<!-- more -->
 Perhaps I'm feeling this way because of the repitition required from daily tasks. The dishes must be done, the dog poop must be picked up, the living room must be cleaned, and I have to shower, and I have to brush my teeth, and I have to put on deoderant. It's an unrelenting barrage of tasks that I have completed hundreds of times. Yet there they are in the back of my mind, waiting to to be completed as I start my day, mocking me with their required completion, lest my quality of life starts to decrease.
 
 Perhaps my feelings are here because I don't think I'm improving. I'm just a fish in a pond, swimming endlessly in a circle. Am I improving at work? Am I becoming a better writer? Am I focusing on the wrong thing? Am I stuck in this house? Am I stuck in this life? Is this what I want? Am I thinking about it too hard? Should I just be grateful to have this pond, with enough room to complete a lap?
