@@ -16,7 +16,7 @@ I mean, I hadn't even realized it at first, I was just focusing on my work. But 
 <!-- more -->
 I just have to make fun of this for a second because if I don't then my head will explode.
 
-The "song" is called *Throne of Chains* and features a *Game of Thrones* inspired throne. Upon closer inspection, there are chains that hang off of this chair that don't connect to anything. There's also lava and fire splashes that don't make any sense, and some odd garbly-gook all over the chair.
+The "song" is called *Throne of Chains* and features a *Game of Thrones* inspired throne. Upon closer inspection, there are chains that hang off of this chair that don't connect to anything. There's also lava and fire splashes that don't make any sense, and some odd garble-gook all over the chair.
 
 I mean, just get a whiff of these "lyrics":
 
@@ -31,7 +31,7 @@ I just sounds... so bad. I can't express just how bad it really sounds.
 
 And yet, this song is in my mix right up there with Disturbed and Linkin Park.
 
-They're not the only one's doing this, oh no. Another "band" by the name of *Obsidian Swing* is gaining traction. If you look at their singles and EP's, every single song has been uploaded in 2025. Additionally, there is absolutely no consistency with the album "artwork". A photorealistic brick in an alleyway, 2 cartoon stick figure characters sitting on a couch, an anime protaganist in a hoodie, a black and white sketch of a man climbing a mountain, a photo of a ferris wheel.
+They're not the only one's doing this, oh no. Another "band" by the name of *Obsidian Swing* is gaining traction. If you look at their singles and EP's, every single song has been uploaded in 2025. Additionally, there is absolutely no consistency with the album "artwork". A photorealistic brick in an alleyway, 2 cartoon stick figure characters sitting on a couch, an anime protagonist in a hoodie, a black and white sketch of a man climbing a mountain, a photo of a Ferris wheel.
 
 It's insulting garbage slop that has found its way into my feed.
 

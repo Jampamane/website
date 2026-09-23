@@ -20,7 +20,7 @@ After several hours I had almost finished. I had just pulled out a clean load of
 
 He asked why I hadn't been wearing my garments.
 
-Now, for the uninitiated, garments are sacred Mormon underwear. I wish I was kidding, but that's literally what it is. Mormon's will go into this big white building and do a bunch of *totally not culty* stuff and tell God that they promise to wear their new magic underwear.
+Now, for the uninitiated, garments are sacred Mormon underwear. I wish I was kidding, but that's literally what it is. Mormon's will go into this big white building and do a bunch of *totally not cult-y* stuff and tell God that they promise to wear their new magic underwear.
 
 My dad is asking his fully grown son why he isn’t wearing his magic underwear.
 
@@ -54,11 +54,11 @@ I begin to explain the research I did into church history, but before I could ev
 
 *So you read anti-Mormon material?*
 
-This is a predictable response, but it still catches me offguard. *Anti-Mormon material* is the first item in a faithful member's arsenal to dismiss any historical facts that directly contridict what the Mormon church teaches. It's an extremely effective [thought-stopping technique](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9). Maybe I just thought that my dad wouldn't stoop to that level. Maybe I thought he would try and actually understand my concerns instead of dismissing them all because I read *“anti-Mormon material.”* Maybe I was wrong.
+This is a predictable response, but it still catches me off guard. *Anti-Mormon material* is the first item in a faithful member's arsenal to dismiss any historical facts that directly contradict what the Mormon church teaches. It's an extremely effective [thought-stopping technique](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9). Maybe I just thought that my dad wouldn't stoop to that level. Maybe I thought he would try and actually understand my concerns instead of dismissing them all because I read *“anti-Mormon material.”* Maybe I was wrong.
 
 Recognizing that nothing I could say would change his mind, I stop talking. He tells me that he’s heard ALL the *“anti-Mormon lies”* back when he served his Mormon mission in California. This was, of course, back before the internet existed. I just stand there and let him talk, slightly dumbfounded at the words he's saying.
 
-When he's finished monologuing I make one last ditch attempt to get through to him. I tell him that I don’t like the way the Mormon church treats gay people. He seems to have a prepared response for this. He tells me that he thinks being gay is a mental illness. That when you’re gay you’re “purposefully removing yourself from the gene pool.” He tells me that "you wouldn’t enable the behavior of someone who is bipolar, so we shouldn't enable the behavior of gay people."
+When he's finished his monologue I make one last ditch attempt to get through to him. I tell him that I don’t like the way the Mormon church treats gay people. He seems to have a prepared response for this. He tells me that he thinks being gay is a mental illness. That when you’re gay you’re “purposefully removing yourself from the gene pool.” He tells me that "you wouldn’t enable the behavior of someone who is bipolar, so we shouldn't enable the behavior of gay people."
 
 I think about this response often. At the time I had never heard of this argument, but it sounded ignorant at best and malicious at worst. Reflecting on this now, several years later, I realize this kind of belief is a byproduct of believing in the teachings of Mormonism. Obviously that doesn't make it right, but I can at least direct my anger at the Mormon corporation and not my father.
 

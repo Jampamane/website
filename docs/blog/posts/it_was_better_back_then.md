@@ -24,10 +24,10 @@ This kind of sentiment seems so foreign in 2026.
 
 Maybe it's because people are spending so much time with their AI chat bots that they're literally going into psychosis.
 
-Maybe it's because many game companies seemingly stopped caring about making good games, instead focusing on extracting money out of their playerbase.
+Maybe it's because many game companies seemingly stopped caring about making good games, instead focusing on extracting money out of their player-base.
 
 Maybe it's because social media algorithms are trained and tailored to try and get you to spend as much time as humanly possible using their apps.
 
-The Wii released in 2006, a time before any of this had happened. It was Nintendo's first console to be able to connect to the internet. It was a time when 480p 3D Mario games and whacky motion controls were innovative and fresh ideas.
+The Wii released in 2006, a time before any of this had happened. It was Nintendo's first console to be able to connect to the internet. It was a time when 480p 3D Mario games and wacky motion controls were innovative and fresh ideas.
 
 I don't know, maybe I'm just not playing the right games today, or maybe it is nostalgia, but it certainly feels like things were better back then.

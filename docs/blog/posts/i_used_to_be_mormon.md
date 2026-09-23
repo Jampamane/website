@@ -9,7 +9,7 @@ categories:
 
 It wasn’t going to go away, no matter how much I tried not to think about it. The thought had taken permanent residence on a shelf in my brain titled: *Future Problems*. It was a future problem that was fast approaching, like a knife wielding horror cliche chasing me in the forest, who just now broke out into a sprint.
 
-I was having trouble describing what I was feeling. It was a kind of fear mixed with uncertainty? And then pan tossed with insecurity? Is this what anxiety felt like? Wasn’t I just in High School? Wasn’t graduation only a month ago? I had already said goodbye to my graduating class, and now I have to say goodbye to my friends and family?
+I was having trouble describing what I was feeling. It was a kind of fear mixed with uncertainty? And then pan tossed with insecurity? Is this what anxiety felt like? Wasn’t I just in high school? Wasn’t graduation only a month ago? I had already said goodbye to my graduating class, and now I have to say goodbye to my friends and family?
 
 <!-- more -->
 I looked down at the floor where all of my belongings lie, then to the empty closet where they were just a moment ago. My bed sank as I sat on the edge of it, seemingly burdened by the extra weight of my thoughts. My room was suddenly a mess. Maybe if I sat and stared at my stuff for long enough, it would magically pack itself, or better yet, it’d go back into the closet where it's always been. This wishful thinking was interrupted by my mom, who has walked into my room to ask me a question.
