@@ -72,6 +72,8 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
+  - meta:
+      enabled: true
   # - git-committers:
   #     repository: Jampamane/website
   #     branch: main

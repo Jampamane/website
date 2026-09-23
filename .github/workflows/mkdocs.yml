@@ -31,8 +31,8 @@ jobs:
           pip install uv
           uv sync
 
-      - name: Build MkDocs site
-        run: uv run mkdocs build
+      - name: Build Zensical Site
+        run: uv run zensical build
 
       - name: Add CNAME file
         run: echo "jampamane.org" > site/CNAME
